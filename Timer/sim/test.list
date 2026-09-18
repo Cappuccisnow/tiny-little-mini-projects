@@ -1,0 +1,3 @@
+INDIR = ../tb
+TEST_NAME = timer_reg_test
+TB_NAME = tb_timer

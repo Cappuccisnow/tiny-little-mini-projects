@@ -1,0 +1,12 @@
+*.ucdb
+*.xlsx
+*.rar
+*.docx
+log/
+wave/
+work/
+*.ini
+*.wlf
+*.zip
+/sample_env
+/Doc
